@@ -32,10 +32,10 @@ EasyPark is a real time parking spot recommender, which ingests real-time parkin
 
 
 
-![EasyPark_real-time demo](images/EasyPark_realtime.png)
+<!--![EasyPark_real-time demo](images/EasyPark_realtime.png)
 ![EasyPark_hourly-trend demo](images/EasyPark_hourly.png)
 ![EasyPark_daily demo](images/EasyPark_daily.png)
-
+-->
 # EasyPark Approach
 EasyPark ingests real-time parking sensor data every 2 seconds, which are processed in the real-time and batch component for real-time parking spot recommendation along with historical hourly and daily parking trend analysis
 
