@@ -46,7 +46,7 @@ EasyPark ingests real-time parking sensor data every 2 seconds, which are proces
  - Firebase - real-time parking sensor data from SFpark.org
  - Total of 952 Parking Spots (15 garages and 937 street parking) data are ingested every 2 seconds.
  - Data throughput ~15 GB/day
-
+ 
 JSON message fields:
 
  - timestamp [year month day hour minute second]: time when parking sensor data is generated
