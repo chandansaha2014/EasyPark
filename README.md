@@ -21,9 +21,9 @@ EasyPark is a real time parking spot recommender, which ingests real-time parkin
 	 - Apache Spark
 	 - Hadoop - HDFS
  - Stream Processing
-	 - Spark Streaming
+	 - Spark Streaming using Apache spark
  - Storage
-	 - Apache Cassandra (time-series analysis)
+	 - Apache Cassandra (time-series analysis)  
 	 - Elasticsearch (geo-spatial queries)
  - UI
 	 - Flask with Highcharts, Bootstrap and AngularJS
